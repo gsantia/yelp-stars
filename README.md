@@ -5,3 +5,4 @@ had, based only on textual features. It turned out to be much more difficult tha
 binary classification. 
 
 The work is presented in detailed Jupyter notebooks with quite a bit of commentary.
+Start with charts, then move onto modeling.
