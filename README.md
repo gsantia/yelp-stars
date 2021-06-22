@@ -1,8 +1,7 @@
-# yelp-stars
+# Yelp Stars regression project
 
-This was a project to perform ordinal regression and predict how many stars a Yelp review
-had, based only on textual features. It turned out to be much more difficult than a simple
-binary classification. 
+Ordinal regression in order to predict how many stars a Yelp review
+has, based only on textual features. The dataset was provided by Yelp as part of their daily data science contest.
 
 The work is presented in detailed Jupyter notebooks with quite a bit of commentary.
-Start with charts, then move onto modeling.
+Start with `charts.ipynb`, then move onto `modeling.ipynb`.
