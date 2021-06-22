@@ -1,4 +1,4 @@
-# Yelp Stars regression project
+# Yelp stars regression project
 
 Ordinal regression in order to predict how many stars a Yelp review
 has, based only on textual features. The dataset was provided by Yelp as part of their daily data science contest.
